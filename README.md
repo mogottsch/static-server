@@ -1,5 +1,5 @@
 # static-server
-A minimal nginx configuration, which can be run as non-root, serving all files in the `static` folder.
+A minimal nginx configuration, which can be run as **non-root**, serving all files in the `static` folder.
 
 ## Running as non-root
 This nginx configuration can be run as non-root user with the following command
