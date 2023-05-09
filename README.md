@@ -4,7 +4,7 @@ A minimal nginx configuration, which can be run as **non-root**, serving all fil
 ## Running as non-root
 This nginx configuration can be run as non-root user with the following command
 ```
-nginx -c nginx.conf -p $PWD
+./start.sh
 ```
 
 ## Why?
